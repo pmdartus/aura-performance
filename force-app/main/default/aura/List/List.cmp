@@ -1,9 +1,13 @@
 <aura:component>
-    <aura:attribute name="values" type="Array" default="1, 2, 3, 4, 5"></aura:attribute>
+    <aura:attribute name="values" type="String[]" default="['1', '2', '3', '4', '5']"></aura:attribute>
 
-    Hello
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <ul>
     <aura:iteration items="{!v.values}" var="item">
-        {!v.item}
+        <li>
+            <c:Item value="{!item}"></c:Item>
+        </li>
     </aura:iteration>
-    BAr
+    </ul>
 </aura:component>	

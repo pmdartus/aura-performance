@@ -1,0 +1,7 @@
+<aura:component>
+    <aura:attribute name="value" type="String"></aura:attribute>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    {!v.value}
+</aura:component>	

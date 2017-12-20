@@ -49,10 +49,10 @@
         {
             "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 170,
-            "modifiedTime": 1513763221000,
-            "changeTime": 1513763221000,
-            "contentHash": "2253e8dd99ccb2f74cdee32ed56a9ab96ee43915",
+            "size": 204,
+            "modifiedTime": 1513763785000,
+            "changeTime": 1513763785000,
+            "contentHash": "524e9b6ffc4219596e894d3f44c3431dca29e2b8",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -201,10 +201,10 @@
             "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/List/List.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 236,
-            "modifiedTime": 1513763602000,
-            "changeTime": 1513763602000,
-            "contentHash": "5a849fa7af91d0a13342ab51ecd9fa8cb05e118c"
+            "size": 377,
+            "modifiedTime": 1513764065000,
+            "changeTime": 1513764065000,
+            "contentHash": "bc11d3704854d300ed95e3901af087301085d582"
         }
     ],
     [
@@ -223,27 +223,92 @@
     [
         "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/List/ListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/List/ListController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1513763389000,
-            "changeTime": 1513763389000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 80,
+            "modifiedTime": 1513764068000,
+            "changeTime": 1513764068000,
+            "contentHash": "f83e7c00788f7f99721b084b7fa3f00478086edd"
         }
     ],
     [
         "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/List/ListRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/List/ListRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1513763389000,
-            "changeTime": 1513763389000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "size": 274,
+            "modifiedTime": 1513764185000,
+            "changeTime": 1513764185000,
+            "contentHash": "7a7f5e15a77fcf011b4a66534340fc7ae53545ba"
+        }
+    ],
+    [
+        "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item",
+        {
+            "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1513763799000,
+            "changeTime": 1513763799000,
+            "contentHash": "8cf6b2e4a65f57947b47322fd871088f0b5506bc",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/Item.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/Item.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 187,
+            "modifiedTime": 1513764222000,
+            "changeTime": 1513764222000,
+            "contentHash": "7d527442b2c336b47e08b2f7cd1c42e011cdce91"
+        }
+    ],
+    [
+        "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/Item.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/Item.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1513763807000,
+            "changeTime": 1513763807000,
+            "contentHash": "1fd47d40b08463c33f57654176b8484372d3f74f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/ItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/ItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 80,
+            "modifiedTime": 1513764201000,
+            "changeTime": 1513764201000,
+            "contentHash": "d28b713d27a2815dde53b2f562b7d9f8407e56fb"
+        }
+    ],
+    [
+        "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/ItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/p.dartus/code/_tmp/aura-performance-presentation/force-app/main/default/aura/Item/ItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 274,
+            "modifiedTime": 1513764192000,
+            "changeTime": 1513764192000,
+            "contentHash": "0495e7f182eceb40699bab300b472d48135244dd"
         }
     ]
 ]
