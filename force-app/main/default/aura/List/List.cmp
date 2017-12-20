@@ -1,0 +1,9 @@
+<aura:component>
+    <aura:attribute name="values" type="Array" default="1, 2, 3, 4, 5"></aura:attribute>
+
+    Hello
+    <aura:iteration items="{!v.values}" var="item">
+        {!v.item}
+    </aura:iteration>
+    BAr
+</aura:component>	
