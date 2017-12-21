@@ -1,0 +1,10 @@
+<aura:component>
+    <aura:attribute name="shouldRender" type="boolean" default="true"></aura:attribute>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    Open the console to see the warning
+    <aura:if isTrue="{!v.shouldRender}">
+        <c:ExpensiveComponent></c:ExpensiveComponent>
+    </aura:if>
+</aura:component>	

@@ -4,6 +4,7 @@
 
         <ul>
             <li><a href="/c/AuraLifeCycle.app">Aura lifecycle</a></li>
+            <li><a href="/c/AuraPerformanceWarning.app">Aura performance warning</a></li>
         </ul>
     </div>
 </aura:application>	
