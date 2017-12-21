@@ -1,0 +1,14 @@
+<aura:component>
+    <aura:attribute name="values" type="String[]" default="['1', '2', '3', '4', '5']"></aura:attribute>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <ul>
+    <aura:iteration items="{!v.values}" var="item" indexVar="i">
+        <li>
+            {!i} 
+            <c:ExpensiveComponent></c:ExpensiveComponent>
+        </li>
+    </aura:iteration>
+    </ul>
+</aura:component>	
