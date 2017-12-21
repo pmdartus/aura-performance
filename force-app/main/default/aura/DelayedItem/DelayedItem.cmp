@@ -1,0 +1,8 @@
+<aura:component controller="EchoController">
+    <aura:attribute name="echo" type="String"></aura:attribute>
+    <aura:attribute name="value" type="String"></aura:attribute>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <p>{!v.value}</p>
+</aura:component>	

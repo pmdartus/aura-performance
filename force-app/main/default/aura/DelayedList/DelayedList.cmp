@@ -1,0 +1,11 @@
+<aura:component>
+    <aura:attribute name="values" type="String[]" default="['1', '2', '3', '4', '5']"></aura:attribute>
+
+    <ul>
+    <aura:iteration items="{!v.values}" var="item">
+        <li>
+            <c:DelayedItem echo="{!item}"></c:DelayedItem>
+        </li>
+    </aura:iteration>
+    </ul>
+</aura:component>	
